@@ -528,4 +528,8 @@
     <string name="gms_cert_chain_title">Disable forcing strong integrity</string>
     <string name="gms_cert_chain_summary">Forcing strong integrity breaks apps like Google Pay, enabling this option fixes such apps.</string>
 
+    <!-- Single tap for keyguard affordance -->
+    <string name="keyguard_affordance_single_tap_title">Single tap for lockscreen shortcuts</string>
+    <string name="keyguard_affordance_single_tap_summary">Toggle lockscreen shortcuts with a single tap instead of long press</string>
+
 </resources>
