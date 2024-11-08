@@ -500,4 +500,7 @@
     <string name="navbar_long_press_gesture_title">Long press to search</string>
     <string name="navbar_long_press_gesture_summary">Long press the gesture bar to analyze the screen with lens</string>
 
+    <!-- Summary for list to control apps that ignore battery saving restrictions -->
+    <string name="high_power_apps_summary">Control battery restrictions for apps</string>
+
 </resources>
