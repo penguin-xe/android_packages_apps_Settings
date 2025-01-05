@@ -292,9 +292,7 @@
 
     <!-- QS Battery estimates -->
     <string name="qs_show_battery_estimate_title">Battery estimates</string>
-    <string name="qs_show_battery_estimate_summary_on">Show battery estimates in QS</string>
-    <string name="qs_show_battery_estimate_summary_off">Hide battery estimates in QS</string>
-    <string name="immersive_navigation_summary">Hide the gesture pill and navigation bar padding.</string>
+    <string name="qs_show_battery_estimate_summary">Show battery estimates in QS header</string>
 
     <!-- Network traffic -->
     <string name="network_traffic_state_title">Network traffic indicator</string>

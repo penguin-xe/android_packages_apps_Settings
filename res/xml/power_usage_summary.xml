@@ -82,8 +82,7 @@
     <co.aospa.framework.preference.SystemSettingSwitchPreference
         android:key="qs_show_battery_estimate"
         android:title="@string/qs_show_battery_estimate_title"
-        android:summaryOn="@string/qs_show_battery_estimate_summary_on"
-        android:summaryOff="@string/qs_show_battery_estimate_summary_off"
+        android:summary="@string/qs_show_battery_estimate_summary"
         android:defaultValue="true" />
 
     <com.android.settingslib.widget.FooterPreference
