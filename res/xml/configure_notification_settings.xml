@@ -181,19 +181,5 @@
             android:summary="@string/notification_assistant_summary"
             settings:controller="com.android.settings.notification.NotificationAssistantPreferenceController"/>
 
-        <co.aospa.framework.preference.SystemSettingSwitchPreference
-            android:key="notification_sound_vib_screen_on"
-            android:order="25"
-            android:title="@string/notification_sound_vib_screen_on_title"
-            android:summary="@string/notification_sound_vib_screen_on_summary"
-            android:defaultValue="true" />
-
-        <co.aospa.framework.preference.SystemSettingSwitchPreference
-            android:key="ongoing_action_chip"
-            android:order="30"
-            android:title="@string/ongoing_action_chip_title"
-            android:summary="@string/ongoing_action_chip_summary"
-            android:defaultValue="true" />
-
     </PreferenceCategory>
 </PreferenceScreen>

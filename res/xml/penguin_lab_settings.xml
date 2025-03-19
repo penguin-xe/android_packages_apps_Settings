@@ -35,6 +35,20 @@
         android:defaultValue="false"
         settings:layout="@layout/pengu_card_sub_mid" />
 
+    <co.aospa.framework.preference.SystemSettingSwitchPreference
+        android:key="notification_sound_vib_screen_on"
+        android:title="@string/notification_sound_vib_screen_on_title"
+        android:summary="@string/notification_sound_vib_screen_on_summary"
+        android:defaultValue="true"
+        settings:layout="@layout/pengu_card_sub_mid" />
+
+    <co.aospa.framework.preference.SystemSettingSwitchPreference
+        android:key="ongoing_action_chip"
+        android:title="@string/ongoing_action_chip_title"
+        android:summary="@string/ongoing_action_chip_summary"
+        android:defaultValue="true"
+        settings:layout="@layout/pengu_card_sub_mid" />
+
     <!-- Heads up -->
     <co.aospa.framework.preference.GlobalSettingSwitchPreference
         android:key="heads_up_notifications_enabled"
