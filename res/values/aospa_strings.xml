@@ -278,6 +278,10 @@
     <string name="penguin_lab_title">Cryolab</string>
     <string name="penguin_lab_footer">These features are experimental.</string>
     <string name="penguin_lab_summary">Experimental features</string>
+    <string name="lab_statusbar_category">Statusbar tuning</string>
+    <string name="lab_quicksettings_category">QuickSetting panel tweaks</string>
+    <string name="lab_notification_category">Notification and alerts</string>
+    <string name="lab_spoofing_category">Spoofing and others</string>
 
     <!-- Unlock FPS for specific games -->
     <string name="use_games_spoof_title">Unlock higher FPS in games</string>
@@ -310,6 +314,7 @@
 
     <!-- AOD Schedule -->
     <string name="always_on_display_schedule_title">Always on display schedule</string>
+    <string name="always_on_display_schedule_summary">Configure custom AOD schedules</string>
     <string name="always_on_display_schedule_sunset">Sunset</string>
     <string name="always_on_display_schedule_sunrise">Sunrise</string>
     <string name="default_string">Default</string>
@@ -347,7 +352,7 @@
     <string name="qqs_columns_landscape_max" translatable="false">@string/qs_columns_landscape_max</string>
 
     <!-- QS style -->
-    <string name="qs_style_title">QuickSetting panel style</string>
+    <string name="qs_style_title">QuickSetting tiles style</string>
     <string name="qs_style_default">Large pill</string>
     <string name="qs_style_round">Small circle</string>
 
