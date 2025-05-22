@@ -23,7 +23,7 @@
     <color name="contextual_card_background">@*android:color/material_grey_900</color>
     <color name="search_bar_background">?androidprv:attr/colorSurfaceVariant</color>
     <color name="homepage_subicon_bg">?android:attr/colorAccent</color>
-    <color name="homepage_icon_bg">@*android:color/system_neutral2_700</color>
+    <color name="homepage_icon_bg">@color/homepage_icon_bg_dark</color>
     <color name="notification_importance_button_unselected">#5F6368</color>
 
     <!-- Palette list preference colors. -->
