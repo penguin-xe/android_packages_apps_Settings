@@ -119,12 +119,6 @@
         android:order="40">
 
         <Preference
-            android:key="spoofing"
-            android:title="@string/pif_spoofs_category_title"
-            android:summary="@string/pif_spoofs_title_summary"
-            android:fragment="com.android.settings.lineage.fragments.pif_spoofs" />
-
-        <Preference
             android:key="hide_developer_status_settings"
             android:title="@string/hide_developer_status_title"
             android:summary="@string/hide_developer_status_summary"
