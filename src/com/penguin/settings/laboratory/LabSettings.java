@@ -65,6 +65,7 @@ implements
 
     @Override public void onResume() { super.onResume();
 
+        final Resources res = getResources();
     }
 
     @Override public void onPause() { super.onPause();

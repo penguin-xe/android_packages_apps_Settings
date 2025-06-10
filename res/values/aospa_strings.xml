@@ -283,10 +283,6 @@
     <string name="lab_notification_category">Notification and alerts</string>
     <string name="lab_spoofing_category">Spoofing and others</string>
 
-    <!-- Unlock FPS for specific games -->
-    <string name="use_games_spoof_title">Unlock higher FPS in games</string>
-    <string name="use_games_spoof_summary">Spoof your device as different model for specific games to unlock higher FPS</string>
-
     <!-- App details: open play store link if app is user installed -->
     <string name="app_play_store">Play Store</string>
 
