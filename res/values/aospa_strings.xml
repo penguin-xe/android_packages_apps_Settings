@@ -516,4 +516,8 @@
     <string name="user_min_auto_brightness_title">Minimum auto brightness threshold</string>
     <string name="user_min_auto_brightness_summary">Limits lowest brightness level for auto brightness</string>
 
+    <!-- Keybox Data -->
+    <string name="keybox_data_title">Select keybox XML</string>
+    <string name="keybox_data_summary">Used for key attestation emulation for all apps system wide. Click the delete button to reset the keybox data values used by the system.</string>
+
 </resources>
