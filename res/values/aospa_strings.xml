@@ -18,10 +18,6 @@
     <!-- Paranoid Android version -->
     <string name="aospa_version">PenguinOS version</string>
 
-    <!-- Penguin maintainer -->
-    <string name="maintainer">Maintainer</string>
-    <string name="penguin_maintainer" translatable="false">Unofficial Maintainer</string>
-
     <!-- Ignore window secure -->
     <string name="ignore_window_secure_title">Ignore window secure flags</string>
     <string name="ignore_window_secure_summary">Remove screenshot and screenrecord limits for all apps. This can be convenient in some cases but may lead to privacy leaks.</string>
