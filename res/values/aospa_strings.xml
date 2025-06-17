@@ -281,7 +281,7 @@
     <string name="lab_statusbar_category">Statusbar tuning</string>
     <string name="lab_quicksettings_category">QuickSetting panel tweaks</string>
     <string name="lab_notification_category">Notification and alerts</string>
-    <string name="lab_spoofing_category">Spoofing and others</string>
+    <string name="lab_misc_category">Miscellaneous</string>
 
     <!-- App details: open play store link if app is user installed -->
     <string name="app_play_store">Play Store</string>

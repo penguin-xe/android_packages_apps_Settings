@@ -115,7 +115,7 @@
     </PreferenceCategory>
 
     <PreferenceCategory
-        android:title="@string/lab_spoofing_category"
+        android:title="@string/lab_misc_category"
         android:order="40">
 
         <Preference
