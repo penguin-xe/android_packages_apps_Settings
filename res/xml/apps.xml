@@ -115,6 +115,13 @@
             android:value="com.android.settings.Settings$AppBatteryUsageActivity"/>
     </Preference>
 
+    <com.android.settings.applications.PifDataPreference
+        android:key="pif_data_setting"
+        android:title="@string/pif_data_title"
+        android:order="18"
+        android:summary="@string/pif_data_summary"
+        android:defaultValue=""/>
+
     <com.android.settings.applications.KeyboxDataPreference
         android:key="keybox_data_setting"
         android:title="@string/keybox_data_title"
